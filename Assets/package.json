@@ -1,0 +1,19 @@
+{
+  "name": "com.yj.xlua",
+  "displayName": "XLua",
+  "description": "XLua",
+  "version": "2.1.14",
+  "unity": "2019.3",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZeroKill1024/xLua.git"
+  },
+  "author": "Tencent",
+  "keywords": [
+    "upm",
+    "git",
+    "editor"
+  ],
+  "dependencies": {}
+}
