@@ -1,0 +1,14 @@
+{
+    "name": "xlua.editor",
+    "references": [
+        "com.yj.xlua"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

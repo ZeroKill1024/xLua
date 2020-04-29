@@ -1,7 +1,7 @@
 {
   "name": "com.yj.xlua",
-  "displayName": "XLua",
-  "description": "XLua",
+  "displayName": "xLua",
+  "description": "xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc",
   "version": "1.0.0",
   "unity": "2019.3",
   "license": "MIT",
@@ -13,7 +13,7 @@
   "keywords": [
     "upm",
     "git",
-    "editor"
+    "xlua"
   ],
   "dependencies": {}
 }
