@@ -1,0 +1,15 @@
+{
+    "name": "xlua.tutorial",
+    "references": [
+        "com.yj.xlua",
+        "xlua.editor"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
